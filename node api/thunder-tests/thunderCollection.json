@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "a09b436b-7b6c-422a-939a-7d373933491e",
+    "colName": "ecom ecommerce",
+    "created": "2023-03-09T07:13:56.040Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "8d34b3a3-37ac-4402-bacc-7db724483b66",
+        "name": "category module",
+        "containerId": "",
+        "created": "2023-03-09T07:13:56.044Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "a9404fff-a3e6-4745-bfb3-3ee8b8f92779",
+        "name": "sub category module",
+        "containerId": "",
+        "created": "2023-03-09T07:13:56.045Z",
+        "sortNum": 30000
+      },
+      {
+        "_id": "81e76478-9b61-4112-a6f3-b48d636403fe",
+        "name": "tax module",
+        "containerId": "",
+        "created": "2023-03-09T07:13:56.046Z",
+        "sortNum": 30000
+      },
+      {
+        "_id": "14d86de7-373a-40c0-84b1-1f46cd291ede",
+        "name": "product module",
+        "containerId": "",
+        "created": "2023-03-09T07:13:56.047Z",
+        "sortNum": 40000
+      },
+      {
+        "_id": "36cdd299-f270-4c43-ba02-1b7cb791ab01",
+        "name": "order module",
+        "containerId": "",
+        "created": "2023-03-09T07:13:56.049Z",
+        "sortNum": 50000
+      },
+      {
+        "_id": "fa0da3a7-7ba1-4081-a9c2-48a3fb48d4c4",
+        "name": "Coupon module",
+        "containerId": "",
+        "created": "2023-03-09T07:13:56.050Z",
+        "sortNum": 60000
+      }
+    ]
+  }
+]
